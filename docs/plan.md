@@ -11,3 +11,7 @@
 10. Ôn tập tổng hợp
 Ngày bắt đầu: 2025-10-07
 Ngày kết thúc: 2025-10-13
+
+-làm được 3 mục tiêu
+-chưa làm 4 mục tiêu
+-đang làm 3 mục tiêu
