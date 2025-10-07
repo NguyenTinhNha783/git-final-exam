@@ -1,0 +1,7 @@
+Tính năng mới: Tự động đồng bộ dữ liệu học tập.
+
+Tính năng: Tự động đồng bộ dữ liệu học tập.
+Mô tả: Hệ thống sẽ tự động cập nhật tiến độ học tập lên server.
+Mục tiêu: Giúp sinh viên theo dõi quá trình học dễ dàng hơn.
+Công nghệ: Node.js, Express, và MongoDB.
+Trạng thái: Đang phát triển.
