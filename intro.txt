@@ -1,0 +1,14 @@
+- Giới thiệu cá nhân:
+Tôi tên là Nguyễn Tịnh Nhã, hiện đang học công nghệ thông tin.
+Tôi thích lập trình và đang rèn luyện kỹ năng sử dụng Git.
+Tôi mong muốn trở thành lập trình viên chuyên nghiệp.
+
+- Sở thích:
+1. Chơi game
+2. Lập trình
+3. Nghe truyện
+
+- Kỹ năng:
+1. Git và GitHub
+2. HTML, CSS
+3. C# và SQL Server
