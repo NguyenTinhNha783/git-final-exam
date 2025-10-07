@@ -12,3 +12,10 @@ Tôi mong muốn trở thành lập trình viên chuyên nghiệp.
 1. Git và GitHub
 2. HTML, CSS
 3. C# và SQL Server
+
+- Kế hoạch học tập:
+1. Nắm vững các khái niệm cơ bản về lập trình và thuật toán.
+2. Học chuyên sâu về lập trình web (HTML, CSS, JS, Node.js).
+3. Rèn luyện kỹ năng sử dụng Git và quản lý dự án nhóm.
+4. Tự học thêm về C#, SQL Server.
+5. Tham gia các dự án thực tế để tích lũy kinh nghiệm.
