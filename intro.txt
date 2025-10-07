@@ -1,5 +1,4 @@
-- Giới thiệu cá nhân:
-Tôi tên là Nguyễn Tịnh Nhã, hiện đang học công nghệ thông tin.
+Hello, this is Nguyễn Tịnh Nhã, hiện đang học công nghệ thông tin.
 Tôi thích lập trình và đang rèn luyện kỹ năng sử dụng Git.
 Tôi mong muốn trở thành lập trình viên chuyên nghiệp.
 
