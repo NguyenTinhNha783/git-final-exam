@@ -12,6 +12,11 @@
 Ngày bắt đầu: 2025-10-07
 Ngày kết thúc: 2025-10-13
 
+<<<<<<< Updated upstream
 -làm được 3 mục tiêu
 -chưa làm 4 mục tiêu
 -đang làm 3 mục tiêu
+=======
+-Ngày 1: đã hoàn thành
+-Ngày 2: sắp hoàn thành
+>>>>>>> Stashed changes
