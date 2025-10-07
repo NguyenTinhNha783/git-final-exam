@@ -1,16 +1,13 @@
-- Kế hoạch học tập trong 1 tuần
-
-- Ngày bắt đầu: 07/10/2025  
-- Ngày kết thúc: 14/10/2025  
-
-Kế hoạch chi tiết:
-1. Ôn lại Git cơ bản: commit, branch, merge.
-2. Thực hành tạo và quản lý branch.
-3. Học cách xử lý conflict khi merge.
-4. Ôn tập lại GitHub workflow.
-5. Viết tài liệu README.md.
-6. Học thêm về rebase.
-7. Thực hành tạo PR (pull request).
-8. Tổng kết lại quy trình Git.
-9. Chuẩn bị cho bài kiểm tra cuối.
-10. Nộp kết quả học tập qua GitHub.
+- Kế hoạch học tập trong 1 tuần:
+1. Học Git cơ bản
+2. Học Git nâng cao
+3. Thực hành merge và rebase
+4. Tìm hiểu GitHub Actions
+5. Làm bài tập Python
+6. Học SQL nâng cao
+7. Làm bài tập C#
+8. Học Qt cơ bản
+9. Làm project xử lý ảnh
+10. Ôn tập tổng hợp
+Ngày bắt đầu: 2025-10-07
+Ngày kết thúc: 2025-10-13
