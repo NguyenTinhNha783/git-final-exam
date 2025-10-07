@@ -1,0 +1,5 @@
+- Tính năng mới: Quản lý nhiệm vụ
+- Thêm nhiệm vụ
+- Xóa nhiệm vụ
+- Cập nhật trạng thái
+- Hiển thị danh sách nhiệm vụ
